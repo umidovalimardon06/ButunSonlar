@@ -22,7 +22,7 @@ public class Main {
         xona2 = n/10%10;
         xona3 = n%10;
 
-        System.out.println("Teskarisi: "+xona3+xona2+xona1);
+        System.out.println("O'nliklarni yuzliklar bn almashtirish: "+xona2+xona1+xona3);
 
     }
 }
